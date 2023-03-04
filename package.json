@@ -1,0 +1,19 @@
+{
+  "name": "captainsim-b764-b777-fbw",
+  "version": "4.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Horizon-Simulations/CaptainSim-B764-B777-new-process.git"
+  },
+  "author": "Horizon Simulations",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Horizon-Simulations/CaptainSim-B764-B777-new-process/issues"
+  },
+  "homepage": "https://github.com/Horizon-Simulations/CaptainSim-B764-B777-new-process#readme"
+}
